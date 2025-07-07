@@ -1,0 +1,9 @@
+Name,Age,Gender,Salary
+John,29,Male,50000
+Jane,NaN,Female,54000
+John,29,Male,50000
+Alice,32,Female,NaN
+Bob,,Male,45000
+Tom,45,Male,950000
+Lucy,28,Female,53000
+Jane,31,Female,52000
